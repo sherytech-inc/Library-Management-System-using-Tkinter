@@ -39,12 +39,9 @@ project
 3. Run the following command in your terminal or command prompt:
 
 ```bash
-python main.py
+python maiin.py
 The application window should launch, allowing you to interact with the library system.
-## How to Run
-
-This project features a GUI-based Library Management System built with Python and Tkinter.
-
+```
 ### 📚 Class Overview
 
 **Book**  
